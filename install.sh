@@ -1,1 +1,1 @@
-mv inc/err.h /usr/local/include/err_t.h
+mv inc/mdlerr.h /usr/local/include/mdlerr.h
